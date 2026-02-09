@@ -1,0 +1,7 @@
+{
+  "name": "CHILL CITY",
+  "description": "Smart Civic Issue Reporter for Chennai - Bridge between People and Government.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
